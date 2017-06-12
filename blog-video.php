@@ -18,7 +18,7 @@
 							<!--end-->
 							<div class="video-title-container">
 								<p class="news-date"> Date, May 06th 2017</p>
-								<h3 class="news-title font-size-16"><a href="#"> Dummy video title goes here </a></h3>
+								<h3 class="news-title font-size-16"><a href="single-video.php"> Dummy video title goes here </a></h3>
 							</div>
 						</div>
 					</div>

@@ -21,7 +21,10 @@
 					</div>
 					<!--Share Button Wudget Will Goes Here-->
 					<hr/>
-					<p>Share : Facebook | Twitter | Google+</p>
+					<!--Credits Section-->
+					<p><strong>Share :</strong> Facebook | Twitter | Google+</p>
+					<p><strong>Author :</strong>&nbsp; Ucup tompel</p>
+					
 				</div>
 			</div>
 			<div class="col-md-3 col-sm-3">
@@ -34,11 +37,29 @@
 				<?php include"sidebar-content.php"; ?>
 			</div>
 		</div>
-	</div>
-</section>
-
 	
 
+    </div>
+
+</section>
+<!--Vertical banner ads-->
+            <?php include"vertical-banner-ads.php"; ?>
+	 <!--
+            ==================================================
+            Related posts Section Start
+            ================================================== -->
+            <section id="related-post-container" class="vertical-padding" >
+            	<div class="container">
+            			<div class="col-md-12 vertical-padding">
+            				<div class="section-title-container">
+            					<h4 class="center-section-title header-font">Related Post</h4>
+            					<hr class="center-red-line-bg">
+            				</div>
+            			</div>
+                	<?php include"related-content.php"; ?>
+                </div>
+            </section>  
+	
  <!--
             ==================================================
             Call To Action Section Start

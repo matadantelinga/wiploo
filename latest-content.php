@@ -128,6 +128,9 @@
 						</div>
 					</div>
 				</div>
+			<div class="ads-banner-container width-100 vertical-padding">
+				<a href="#"><img src="assets/images/square-ads.jpg" class="width-100" /></a>
+			</div>
 		</div>
 	</div>
 </div>
