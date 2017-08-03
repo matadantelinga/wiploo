@@ -1,12 +1,17 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-9 col-sm-9">
+
+		<div class="row">
 			<div class="col-md-12">
 				<div class="section-title-container">
 					<h4 class="section-title header-font">Latest</h4>
 					<hr class="red-line-bg margin-left-10">
 				</div>
 			</div>
+		</div>
+
+		<div class="row">
 			<div class="col-md-6 col-sm-6">
 				<div class="news-container">
 					<div class="news-image">
@@ -47,7 +52,7 @@
 					<p class="news excerpt">Lorem ipsum dolor sit amet, dummy content will goes here, just read it and dont comment anything, it was just dummy</p>
 				</div>
 			</div>
-			
+		</div>
 		</div>
 		<div class="col-md-3 col-sm-3">
 			<div class="right-sidebar-container">

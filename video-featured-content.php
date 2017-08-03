@@ -1,6 +1,8 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-6 col-sm-6">
+
+		<div class="row">
 				<div class="col-md-12">
 					<div class="section-title-container">
 						<h4 class="center-section-title header-font">Video</h4>
@@ -44,7 +46,10 @@
 				</div>
 			</div>
 		</div>
+		</div>
 		<div class="col-md-6 col-sm-6">
+
+		<div class="row">
 			<div class="col-md-12">
 				<div class="section-title-container">
 					<h4 class="center-section-title header-font">Featured</h4>
@@ -103,6 +108,7 @@
 				<!--end-->
 				
 			</div>
+		</div>
 			
 		</div>
 	</div>
