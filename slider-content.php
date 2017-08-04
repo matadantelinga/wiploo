@@ -1,5 +1,5 @@
 <div class="container">
-	<div class="top-banner">
+	<div class="top-banner vertical-padding">
 		<div class="col-md-8 col-sm-8 no-padding">
 			<div class="main-sliders">
 				<div class="main-slider-container">
